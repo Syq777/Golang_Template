@@ -8,8 +8,6 @@ func PlusOne(nums []int) []int {
 	}
 	return res
 }
-
-
 // 要实现的是只有最后一位加一
 func PlusOne(nums []int) []int {
 	res := make([]int, len(nums))
